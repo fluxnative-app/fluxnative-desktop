@@ -1,17 +1,17 @@
 # FluxNative Desktop
 
-Installers for **FluxNative Desktop**, the FluxNative builder in a window of
-its own, with the coding-agent CLIs installed on your Mac (Claude Code, Codex,
-Gemini CLI, Copilot CLI and more) available to build your apps.
+The FluxNative builder in its own window, for Mac and Windows.
 
-## Download
+**Download: [fluxnative.app/download](https://fluxnative.app/download)**
 
-Get the latest version from **[Releases](https://github.com/fluxnative-app/fluxnative-desktop/releases/latest)**.
+| Computer | Installer | Requires |
+| --- | --- | --- |
+| Mac with Apple silicon | `FluxNative-<version>-arm64.dmg` | macOS 13 or later |
+| Mac with Intel | `FluxNative-<version>-x64.dmg` | macOS 13 or later |
+| Windows | `FluxNative-Setup-<version>.exe` | Windows 10 or later, 64-bit |
 
-- **Mac with Apple silicon**: download `FluxNative-<version>-arm64.dmg`, open it
-  and drag FluxNative to Applications. The app is signed and notarized by Apple.
-- Installed copies update themselves: when a new version is ready, FluxNative
-  shows **Restart** to finish updating.
+- **Mac**: open the disk image and drag FluxNative to Applications.
+- **Windows**: run the installer. It is not code-signed yet, so SmartScreen asks first: choose **More info**, then **Run anyway**.
+- Installed copies update themselves.
 
-This repository holds release builds only. Learn more at
-[fluxnative.app](https://fluxnative.app).
+Every version and its notes: [Releases](https://github.com/fluxnative-app/fluxnative-desktop/releases). This repository holds release builds only.
