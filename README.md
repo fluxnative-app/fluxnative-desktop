@@ -61,5 +61,6 @@ This repository holds release builds and their notes only. The app's source is n
   <a href="https://fluxnative.app"><b>Website</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://fluxnative.app/docs"><b>Docs</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://fluxnative.app/pricing"><b>Pricing</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/fluxnativeapp"><b>X</b></a>
+  <a href="https://x.com/fluxnativeapp"><b>X</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@fluxnativeapp"><b>YouTube</b></a>
 </p>
